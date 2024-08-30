@@ -1,0 +1,1 @@
+This folder performs exploratory data analysis (EDA) on a financial news dataset. It includes how to analyze the dataset, such as calculating descriptive statistics, performing sentiment analysis, and identifying common keywords or phrases.
