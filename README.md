@@ -31,3 +31,7 @@ This folder performs exploratory data analysis (EDA) on a financial news dataset
 - Perform sentiment analysis on headlines to gauge the sentiment (positive, negative, neutral) associated with the news.
 - Use natural language processing techniques to identify common keywords or phrases.
 - Extract topics or significant events from the headlines, such as "FDA approval", "price target", etc.
+
+-The correlation analysis between news sentiment and stock movement highlighted the complexity of predicting stock prices based solely on news headlines. While sentiment analysis offers valuable insights, it is just one piece of the puzzle in the broader context of financial market analysis. The findings emphasize the importance of using a combination of technical and fundamental analysis to make informed trading decisions.
+
+Overall, the integration of quantitative analysis with sentiment-based approaches can enhance the understanding of stock market dynamics, but caution must be exercised when interpreting these results. The combination of different methods provides a more comprehensive view, helping to mitigate the limitations of any single approach.
